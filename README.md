@@ -1,2 +1,2 @@
 # DamkaGame
-This is a Damka game implemented in C#
+This is a Checkers game implemented in C#
